@@ -1,0 +1,41 @@
+[Eagle]
+Version="06 05 00"
+Platform="Windows"
+Serial="62191E841E-LSR-WLM-1EL"
+Globals="Globals"
+Desktop="Desktop"
+
+[Globals]
+AutoSaveProject=1
+UsedLibrary="C:/Software/Eagle/lbr/NRF24L01.lbr"
+UsedLibrary="C:/Software/Eagle/lbr/Adafruit/adafruit.lbr"
+UsedLibrary="C:/Software/Eagle/lbr/Sparkfun/LilyPad-Wearables.lbr"
+UsedLibrary="C:/Software/Eagle/lbr/Sparkfun/SparkFun-Aesthetics.lbr"
+UsedLibrary="C:/Software/Eagle/lbr/Sparkfun/SparkFun-AnalogIC.lbr"
+UsedLibrary="C:/Software/Eagle/lbr/Sparkfun/SparkFun-Boards.lbr"
+UsedLibrary="C:/Software/Eagle/lbr/Sparkfun/SparkFun-Capacitors.lbr"
+UsedLibrary="C:/Software/Eagle/lbr/Sparkfun/SparkFun-Connectors.lbr"
+UsedLibrary="C:/Software/Eagle/lbr/Sparkfun/SparkFun-DigitalIC.lbr"
+UsedLibrary="C:/Software/Eagle/lbr/Sparkfun/SparkFun-DiscreteSemi.lbr"
+UsedLibrary="C:/Software/Eagle/lbr/Sparkfun/SparkFun-Displays.lbr"
+UsedLibrary="C:/Software/Eagle/lbr/Sparkfun/SparkFun-Electromechanical.lbr"
+UsedLibrary="C:/Software/Eagle/lbr/Sparkfun/SparkFun-FreqCtrl.lbr"
+UsedLibrary="C:/Software/Eagle/lbr/Sparkfun/SparkFun-LED.lbr"
+UsedLibrary="C:/Software/Eagle/lbr/Sparkfun/SparkFun-Passives.lbr"
+UsedLibrary="C:/Software/Eagle/lbr/Sparkfun/SparkFun-PowerIC.lbr"
+UsedLibrary="C:/Software/Eagle/lbr/Sparkfun/SparkFun-RF.lbr"
+UsedLibrary="C:/Software/Eagle/lbr/Sparkfun/SparkFun-Resistors.lbr"
+UsedLibrary="C:/Software/Eagle/lbr/Sparkfun/SparkFun-Sensors.lbr"
+UsedLibrary="C:/Software/Eagle/lbr/Teensy/teensy.lbr"
+UsedLibrary="C:/Software/Eagle/lbr/Teensy/teensypp.lbr"
+UsedLibrary="C:/Software/Eagle/lbr/Sparkfun/SparkFun-Retired.lbr"
+
+[Win_1]
+Type="Control Panel"
+Loc="97 128 1335 879"
+State=2
+Number=0
+
+[Desktop]
+Screen="3522 1050"
+Window="Win_1"
